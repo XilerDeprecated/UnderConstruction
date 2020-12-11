@@ -107,6 +107,7 @@ body {
   align-items: center;
   justify-content: space-between;
   top: 0;
+  z-index: -1;
   overflow: hidden;
 }
 
